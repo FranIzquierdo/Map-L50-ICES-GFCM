@@ -8,7 +8,7 @@ MAP script:
 
 -   Download and representation of ICES and CGPM areas/divisions (polygons).
 
--   Input and representation of European hake (Merluccius merluccius) L50 measurements (bubble chart) along its distribution area for a period between 1925 and 2021.
+-   Input and representation of European hake (*Merluccius merluccius*) L50 measurements (bubble chart) along its distribution area for a period between 1925 and 2021.
 
 -   Mean sea surface temperature (SST) input (raster file) for the period 1982-2021.
 
